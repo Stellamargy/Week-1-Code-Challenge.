@@ -1,3 +1,4 @@
+//Challenge 2
 let p = document.querySelector("#speed");
 let speed = prompt("Put speed");
 //no overspeeding

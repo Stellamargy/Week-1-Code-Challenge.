@@ -1,3 +1,5 @@
+//Challenge 3
+
 function nssf(salary) {
     if (salary < 18000) {
       return salary * 0.06;
